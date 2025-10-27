@@ -48,3 +48,27 @@ DEVLOPERS CAN UPLOAD THEIR APPLICATION CODE VIA AWS CONSOLE, CLI, etc etc
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="762" height="529" alt="image" src="https://github.com/user-attachments/assets/95891572-2bd0-4997-b4dc-08bb9d1a2b3b" />
+
+
+
+
+
+
