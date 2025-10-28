@@ -1,10 +1,12 @@
-"Feature","NLB","ALB"
-"Layer","4 (Transport)","7 (Application)"
-"Protocols","TCP, UDP, TLS","HTTP, HTTPS, gRPC"
-"Static IPs","Yes","No"
-"Latency","Ultra-low","Sufficient for web apps"
-"Routing Logic","IP-based, flow hash","Path, host, header, method-based"
-"Advanced Features","AWS PrivateLink, static IP","SSL offload, WAF, HTTP(S) redirects"
+| **Feature**         | **NLB (Network Load Balancer)** | **ALB (Application Load Balancer)** |
+|----------------------|----------------------------------|--------------------------------------|
+| **Layer**            | 4 (Transport)                   | 7 (Application)                     |
+| **Protocols**        | TCP, UDP, TLS                   | HTTP, HTTPS, gRPC                   |
+| **Static IPs**       | Yes                             | No                                  |
+| **Latency**          | Ultra-low                       | Sufficient for web apps             |
+| **Routing Logic**    | IP-based, flow hash             | Path, host, header, method-based    |
+| **Advanced Features**| AWS PrivateLink, static IP      | SSL offload, WAF, HTTP(S) redirects |
+
 
 
 <img width="1920" height="1080" alt="Screenshot from 2025-10-28 14-41-36" src="https://github.com/user-attachments/assets/ac40b6c5-7b2f-419d-8f7c-f8601daffe95" />## 
