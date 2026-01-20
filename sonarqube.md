@@ -21,9 +21,9 @@ What, Why, Advantages, Disadvantages, Workflow, Best Practices
 
 ## Author Information
 
-| Author      | Created on | Version | Last updated by | Last edited on |
-| ----------- | ---------- | ------- | --------------- | -------------- |
-| Hardik Modi | 16-01-2026 | v1.0    | Hardik Modi     | 16-01-2026     |
+| Author | Created on | Version | Last updated by | Last edited on | Pre Reviewer | L0 Reviewer | L1 Reviewer | L2 Reviewer |
+|--------|------------|---------|-----------------|----------------|--------------|-------------|-------------|-------------|
+| Hardik Modi | 16-01-2026 | v1.0 | Hardik Modi | 16-01-2026 |  |  |  |  |
 
 ---
 
