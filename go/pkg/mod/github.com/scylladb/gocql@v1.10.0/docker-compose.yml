@@ -1,0 +1,18 @@
+version: "3.7"
+
+services:
+  node_1:
+    image: ${SCYLLA_IMAGE}
+    privileged: true
+    command: --smp 2 --memory 512M --seeds 192.168.100.11 --overprovisioned 1
+    networks:
+      public:
+        ipv4_address: 192.168.100.11
+
+networks:
+  public:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 192.168.100.0/24
